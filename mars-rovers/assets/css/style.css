@@ -50,9 +50,15 @@ header.primary ul {
   display: flex;
   flex-direction: row;
   justify-content: space-around;
-  list-style: none; /* Removes bullets */
+  list-style: none;
   padding: 0;
 }
+
+header.primary ul li {
+  flex: 1;
+  text-align: center;
+}
+
 
 main {
     display: grid;
@@ -89,4 +95,7 @@ header {
 
 footer {
     grid-area: footer;
+    text-align: center;
+    padding-top: 0;
+    padding-bottom: 0;
 }
