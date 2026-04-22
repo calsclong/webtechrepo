@@ -1,0 +1,92 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+/* Starter */
+main>* {
+    font-family: Avenir, Montserrat, Corbel, "URW Gothic", source-sans-pro,
+        sans-serif;
+    font-weight: normal;
+    background-color: #c0c0c0;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+header.primary {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  /* Longform */
+  padding-top: 40px;
+  padding-right: 40px;
+  padding-bottom: 40px;
+  padding-left: 40px;
+  /* Single Value */
+  padding: 40px;
+  /* T/R/B/L */
+  padding: 40px 40px 20px 40px;
+  /* T/B | L/R */
+  padding: 20px 40px;
+} 
+
+header.primary h1 {
+  font-size: 2.4rem;
+  margin: 0;
+
+}
+
+header.primary p.subtitle {
+  font-size: 1.3rem;
+  margin: 10px 0 20px;
+  letter-spacing: .2px;
+}
+
+header.primary ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  list-style: none; /* Removes bullets */
+  padding: 0;
+}
+
+main {
+    display: grid;
+    gap: 20px;
+    max-width: 80vw;
+    margin: 20px auto;
+    grid-template-areas:
+        "header header"
+        "aside aside"
+        "content blog"
+        "footer footer"
+    ;
+}
+
+header {
+    grid-area: header;
+}
+
+#content {
+    grid-area: content;
+}
+
+#blog {
+    grid-area: blog;
+}
+
+#aside {
+    grid-area: aside;
+}
+
+#aside header{
+    text-align: center;
+}
+
+footer {
+    grid-area: footer;
+}
