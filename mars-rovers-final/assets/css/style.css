@@ -24,10 +24,10 @@ main>* {
     font-family: Avenir, Montserrat, Corbel, "URW Gothic", source-sans-pro,
         sans-serif;
     font-weight: normal;
-    background-color: rgb(213, 223, 255);
-    border-radius: 10px;
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.dev/svgjs' width='1440' height='800' preserveAspectRatio='none' viewBox='0 0 1440 800'%3e%3cg clip-path='url(%26quot%3b%23SvgjsClipPath5684%26quot%3b)' fill='none'%3e%3crect width='1440' height='800' x='0' y='0' fill='url(%26quot%3b%23SvgjsLinearGradient5685%26quot%3b)'%3e%3c/rect%3e%3ccircle r='71.11' cx='1347.76' cy='424.73' fill='url(%26quot%3b%23SvgjsLinearGradient5686%26quot%3b)'%3e%3c/circle%3e%3ccircle r='69' cx='989.46' cy='443.47' fill='url(%26quot%3b%23SvgjsLinearGradient5687%26quot%3b)'%3e%3c/circle%3e%3ccircle r='52.63' cx='861.51' cy='271.63' fill='url(%26quot%3b%23SvgjsLinearGradient5688%26quot%3b)'%3e%3c/circle%3e%3ccircle r='25.395' cx='7.12' cy='676.67' fill='url(%26quot%3b%23SvgjsLinearGradient5689%26quot%3b)'%3e%3c/circle%3e%3ccircle r='25.155' cx='517.8' cy='3.87' fill='url(%26quot%3b%23SvgjsLinearGradient5690%26quot%3b)'%3e%3c/circle%3e%3ccircle r='28.58' cx='17.92' cy='412.75' fill='url(%26quot%3b%23SvgjsLinearGradient5691%26quot%3b)'%3e%3c/circle%3e%3ccircle r='68.405' cx='1274.89' cy='354.14' fill='url(%26quot%3b%23SvgjsLinearGradient5692%26quot%3b)'%3e%3c/circle%3e%3ccircle r='32.53' cx='115.71' cy='692.66' fill='url(%26quot%3b%23SvgjsLinearGradient5693%26quot%3b)'%3e%3c/circle%3e%3ccircle r='56.715' cx='599.34' cy='96.6' fill='url(%26quot%3b%23SvgjsLinearGradient5694%26quot%3b)'%3e%3c/circle%3e%3ccircle r='26.68' cx='1028.92' cy='6.93' fill='url(%26quot%3b%23SvgjsLinearGradient5695%26quot%3b)'%3e%3c/circle%3e%3ccircle r='35.795' cx='638.85' cy='569.94' fill='url(%26quot%3b%23SvgjsLinearGradient5696%26quot%3b)'%3e%3c/circle%3e%3ccircle r='72.31' cx='1284.42' cy='753.08' fill='url(%26quot%3b%23SvgjsLinearGradient5697%26quot%3b)'%3e%3c/circle%3e%3ccircle r='24.505' cx='560.81' cy='341.47' fill='url(%26quot%3b%23SvgjsLinearGradient5698%26quot%3b)'%3e%3c/circle%3e%3ccircle r='68.24' cx='213.48' cy='765.8' fill='url(%26quot%3b%23SvgjsLinearGradient5699%26quot%3b)'%3e%3c/circle%3e%3ccircle r='51.315' cx='120.52' cy='64.9' fill='url(%26quot%3b%23SvgjsLinearGradient5700%26quot%3b)'%3e%3c/circle%3e%3c/g%3e%3cdefs%3e%3cclipPath id='SvgjsClipPath5684'%3e%3crect width='1440' height='800' x='0' y='0'%3e%3c/rect%3e%3c/clipPath%3e%3clinearGradient x1='11.11%25' y1='-20%25' x2='88.89%25' y2='120%25' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient5685'%3e%3cstop stop-color='rgba(14%2c 42%2c 71%2c 1)' offset='0'%3e%3c/stop%3e%3cstop stop-color='rgba(15%2c 0%2c 84%2c 1)' offset='1'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient x1='1205.54' y1='424.73' x2='1489.98' y2='424.73' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient5686'%3e%3cstop stop-color='rgba(226%2c 152%2c 222%2c 0.34)' offset='0.1'%3e%3c/stop%3e%3cstop stop-color='rgba(72%2c 70%2c 135%2c 0)' offset='0.9'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient x1='851.46' y1='443.47' x2='1127.46' y2='443.47' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient5687'%3e%3cstop stop-color='rgba(132%2c 182%2c 224%2c 0.32)' offset='0.1'%3e%3c/stop%3e%3cstop stop-color='rgba(70%2c 74%2c 143%2c 0)' offset='0.9'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient x1='756.25' y1='271.63' x2='966.77' y2='271.63' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient5688'%3e%3cstop stop-color='rgba(226%2c 152%2c 222%2c 0.34)' offset='0.1'%3e%3c/stop%3e%3cstop stop-color='rgba(72%2c 70%2c 135%2c 0)' offset='0.9'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient x1='-43.67' y1='676.67' x2='57.91' y2='676.67' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient5689'%3e%3cstop stop-color='rgba(132%2c 182%2c 224%2c 0.32)' offset='0.1'%3e%3c/stop%3e%3cstop stop-color='rgba(70%2c 74%2c 143%2c 0)' offset='0.9'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient x1='467.48999999999995' y1='3.8699999999999974' x2='568.1099999999999' y2='3.8699999999999974' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient5690'%3e%3cstop stop-color='rgba(132%2c 182%2c 224%2c 0.32)' offset='0.1'%3e%3c/stop%3e%3cstop stop-color='rgba(70%2c 74%2c 143%2c 0)' offset='0.9'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient x1='-39.239999999999995' y1='412.75' x2='75.08' y2='412.75' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient5691'%3e%3cstop stop-color='rgba(171%2c 60%2c 81%2c 0.28)' offset='0.1'%3e%3c/stop%3e%3cstop stop-color='rgba(79%2c 68%2c 132%2c 0)' offset='0.9'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient x1='1138.0800000000002' y1='354.14' x2='1411.7000000000003' y2='354.14' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient5692'%3e%3cstop stop-color='rgba(242%2c 155%2c 124%2c 0.26)' offset='0.1'%3e%3c/stop%3e%3cstop stop-color='rgba(126%2c 98%2c 134%2c 0)' offset='0.9'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient x1='50.64999999999999' y1='692.6599999999999' x2='180.76999999999998' y2='692.6599999999999' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient5693'%3e%3cstop stop-color='rgba(242%2c 155%2c 124%2c 0.26)' offset='0.1'%3e%3c/stop%3e%3cstop stop-color='rgba(126%2c 98%2c 134%2c 0)' offset='0.9'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient x1='485.91' y1='96.6' x2='712.77' y2='96.6' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient5694'%3e%3cstop stop-color='rgba(242%2c 155%2c 124%2c 0.26)' offset='0.1'%3e%3c/stop%3e%3cstop stop-color='rgba(126%2c 98%2c 134%2c 0)' offset='0.9'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient x1='975.5600000000001' y1='6.93' x2='1082.28' y2='6.93' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient5695'%3e%3cstop stop-color='rgba(171%2c 60%2c 81%2c 0.28)' offset='0.1'%3e%3c/stop%3e%3cstop stop-color='rgba(79%2c 68%2c 132%2c 0)' offset='0.9'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient x1='567.26' y1='569.94' x2='710.44' y2='569.94' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient5696'%3e%3cstop stop-color='rgba(50%2c 50%2c 93%2c 0.34)' offset='0.1'%3e%3c/stop%3e%3cstop stop-color='rgba(66%2c 68%2c 136%2c 0)' offset='0.9'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient x1='1139.8000000000002' y1='753.08' x2='1429.0400000000002' y2='753.08' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient5697'%3e%3cstop stop-color='rgba(171%2c 60%2c 81%2c 0.28)' offset='0.1'%3e%3c/stop%3e%3cstop stop-color='rgba(79%2c 68%2c 132%2c 0)' offset='0.9'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient x1='511.79999999999995' y1='341.47' x2='609.8199999999999' y2='341.47' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient5698'%3e%3cstop stop-color='rgba(226%2c 152%2c 222%2c 0.34)' offset='0.1'%3e%3c/stop%3e%3cstop stop-color='rgba(72%2c 70%2c 135%2c 0)' offset='0.9'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient x1='77' y1='765.8' x2='349.96' y2='765.8' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient5699'%3e%3cstop stop-color='rgba(242%2c 155%2c 124%2c 0.26)' offset='0.1'%3e%3c/stop%3e%3cstop stop-color='rgba(126%2c 98%2c 134%2c 0)' offset='0.9'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient x1='17.89' y1='64.9' x2='223.14999999999998' y2='64.9' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient5700'%3e%3cstop stop-color='rgba(171%2c 60%2c 81%2c 0.28)' offset='0.1'%3e%3c/stop%3e%3cstop stop-color='rgba(79%2c 68%2c 132%2c 0)' offset='0.9'%3e%3c/stop%3e%3c/linearGradient%3e%3c/defs%3e%3c/svg%3e");
     padding: 20px;
     box-shadow: 0 0 16px rgba(0, 0, 0, 0.4);
+    color: rgb(176, 201, 255);
 }
 
 header.primary {
@@ -36,14 +36,8 @@ header.primary {
   /* Longform */
   padding-top: 40px;
   padding-right: 40px;
-  padding-bottom: 40px;
+  padding-bottom: 20px;
   padding-left: 40px;
-  /* Single Value */
-  padding: 40px;
-  /* T/R/B/L */
-  padding: 40px 40px 20px 40px;
-  /* T/B | L/R */
-  padding: 20px 40px;
 } 
 
 header.primary h1 {
@@ -82,15 +76,13 @@ header.primary ul a {
 }
 
 header.primary ul a:hover {
-  background-color: #a1bdff;
+  background-color: #81a0ff;
 }
 
 
 main {
     display: grid;
     gap: 20px;
-    max-width: 80vw;
-    margin: 20px auto;
     grid-template-areas:
         "header header"
         "faq faq"
@@ -105,21 +97,37 @@ header {
 
 #lcontent {
     grid-area: lcontent;
+    margin: 20px;
+    border-radius: 10px;
 }
 
 #rcontent {
     grid-area: rcontent;
+    margin: 20px;
+    border-radius: 10px;
 }
 
 #faq {
     grid-area: faq;
+    margin: 20px;
+    border-radius: 10px;
 }
 
 #aside header{
     text-align: center;
+    margin: 20px;
+    border-radius: 10px;
 }
 
 footer {
     grid-area: footer;
     text-align: center;
+    padding-bottom: 40px;
+}
+
+#footer2 {
+    grid-area: footer;
+    text-align: center;
+    margin: 0px 80px 20px 80px;
+    border-radius: 40px;
 }
